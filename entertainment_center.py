@@ -1,7 +1,9 @@
 import media
 import webbrowser
 import fresh_tomatoes
+***this creates an instance of Movie class, parameters gives name, desc, trailer link and image link***
 mad_max = media.Movie("Mad Max","fucking awesome","http://cdn1-www.superherohype.com/assets/uploads/gallery/mad-max-fury-road_1/mad-max-fury-road-poster2.jpg","https://www.youtube.com/watch?v=hEJnMQG9ev8")
+
 #print mad_max.storyline
 
 #mad_max.show_trailer()
