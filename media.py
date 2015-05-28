@@ -1,6 +1,6 @@
 import webbrowser
 
-#class Movie stores info about movie items and have a function to show the trailers
+# class Movie stores info about movie items and have a function to show the trailers
 class Movie():
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title

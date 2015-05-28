@@ -6,5 +6,6 @@ features:
 - it's running under Win/Mac/Linux
 
 to view the Movie Trailer Website:
-1) run fresh_tomatoes.html in root dir
-2) click movie title or box to watch the trailer
+1- run the module by type: "python entertainment_center.py"; 
+2- the web page will be open in the system default browser; 
+3- enjoy the trailers
